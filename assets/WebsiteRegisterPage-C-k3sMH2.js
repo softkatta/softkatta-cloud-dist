@@ -1,0 +1,1 @@
+import{j as t}from"./react-vendor-Dl2bqp9O.js";import{R as r}from"./index-TsFM_i8e.js";import"./vendor-CkKFuDRz.js";import"./query-B4n-kLAt.js";function m(){return t.jsx(r,{loginPath:"/login"})}export{m as WebsiteRegisterPage};

@@ -1,0 +1,1 @@
+import{j as o}from"./react-vendor-Dl2bqp9O.js";import{C as t}from"./CmsPageContent-CKqSFmQN.js";import"./vendor-CkKFuDRz.js";import"./query-B4n-kLAt.js";import"./index-TsFM_i8e.js";import"./WebsiteInnerPage-CDsQfhPs.js";import"./WebsitePage-DFvOSP9W.js";function l(){return o.jsx(t,{slug:"refund-policy",fallbackTitle:"Refund Policy"})}export{l as RefundPolicyPage};
