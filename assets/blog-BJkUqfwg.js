@@ -1,1 +1,0 @@
-import{a as o}from"./index-TsFM_i8e.js";async function i(a={}){const{data:t}=await o.get("/public/blog",{params:a});return t}async function n(a){const{data:t}=await o.get(`/public/blog/${a}`);return t.data}export{n as a,i as f};

@@ -1,1 +1,0 @@
-import{j as t}from"./react-vendor-Dl2bqp9O.js";import{C as o}from"./CmsPageContent-CKqSFmQN.js";import"./vendor-CkKFuDRz.js";import"./query-B4n-kLAt.js";import"./index-TsFM_i8e.js";import"./WebsiteInnerPage-CDsQfhPs.js";import"./WebsitePage-DFvOSP9W.js";function a(){return t.jsx(o,{slug:"terms-and-conditions",fallbackTitle:"Terms & Conditions"})}export{a as TermsPage};
