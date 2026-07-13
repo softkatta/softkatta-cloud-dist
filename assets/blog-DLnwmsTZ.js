@@ -1,1 +1,0 @@
-import{e as o}from"./index-CoVD7nX1.js";async function i(t={}){const{data:a}=await o.get("/public/blog",{params:t});return a}async function n(t){const{data:a}=await o.get(`/public/blog/${t}`);return a.data}export{n as a,i as f};

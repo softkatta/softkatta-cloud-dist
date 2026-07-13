@@ -1,0 +1,1 @@
+import{e as o}from"./index-BMNPMdwR.js";async function s(t){const{data:a}=await o.post("/public/contact",t);return a}async function c(t){const{data:a}=await o.post("/public/book-demo",{...t,type:"demo"});return a}export{s as a,c as s};
