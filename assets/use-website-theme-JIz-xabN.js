@@ -1,0 +1,1 @@
+import{r as t}from"./index-CoVD7nX1.js";const r=t.createContext(null);function o(){const e=t.useContext(r);if(!e)throw new Error("useWebsiteTheme must be used within WebsiteThemeProvider");return e}export{r as W,o as u};
