@@ -1,1 +1,0 @@
-import{j as t,ag as e}from"./index-BMNPMdwR.js";function o(){return t.jsx(e,{title:"Welcome back",description:"Sign in to manage your software, billing, and support",deviceName:"customer-portal",defaultRedirect:"/portal",registerPath:"/register",forgotPasswordPath:"/portal/forgot-password",variant:"customer"})}export{o as WebsiteLoginPage};
