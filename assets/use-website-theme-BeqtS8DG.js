@@ -1,1 +1,0 @@
-import{b as t}from"./react-BwMtnpqB.js";const s=t.createContext(null);function o(){const e=t.useContext(s);if(!e)throw new Error("useWebsiteTheme must be used within WebsiteThemeProvider");return e}export{s as W,o as u};

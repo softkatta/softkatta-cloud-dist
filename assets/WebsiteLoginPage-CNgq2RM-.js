@@ -1,0 +1,1 @@
+import{j as t,ab as e}from"./index-BLoOeXLO.js";function o(){return t.jsx(e,{title:"Welcome back",description:"Sign in to manage your software, billing, and support",deviceName:"customer-portal",defaultRedirect:"/portal",registerPath:"/register",forgotPasswordPath:"/portal/forgot-password",variant:"customer"})}export{o as WebsiteLoginPage};
